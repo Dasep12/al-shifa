@@ -1,0 +1,3 @@
+php C:\xampp\htdocs\Belajar-CI\
+php index.php welcome create
+EXIT
